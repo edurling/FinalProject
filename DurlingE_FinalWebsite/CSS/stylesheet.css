@@ -1,0 +1,114 @@
+link {
+    display: none;
+  }
+
+.container-fluid {
+    text-align: center;
+}
+
+.container {
+    background-color: #ededed;
+    text-align: center;
+}
+
+.navigation {
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100%;
+    width: 120px;
+    position: fixed;
+    z-index: 1;
+    top: 0; 
+    left: 0;
+    background-color: #2b2b2b; 
+    padding-top: 130px;
+  }
+  
+  .navigation a {
+    color: #edededd5;
+    text-decoration: none;
+    padding: 5px 10px 5px 10px;
+    font-size: 20px;
+    display: block;
+  }
+  
+  .navigation a:hover {
+    color: #ededed;
+  }
+  
+  
+  header{
+    background-color: #2b2b2b;
+    text-align: center;
+    width: 100%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+  
+  body{
+    margin-left: 80px; 
+    background-color: #ededed;
+  }
+  
+  h1{
+    margin-left: 80px; 
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+  }
+  
+  h2{
+    margin-left: 80px; 
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+  }
+  
+  h3{
+    margin-left: 80px; 
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+  }
+  
+  p{
+    margin-left: 80px; 
+    color: black;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    padding-left: 0px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  
+  footer {
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    padding-top: 50px;
+  }
+  
+  
+  .button {
+    display: inline-block;
+    outline: none;
+    padding: 12px 12px;
+    border-radius: 4px;
+    text-align: center;
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #2b2b2b;
+  }
